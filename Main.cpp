@@ -1,5 +1,5 @@
 //This program calculates and displays the positive divisors of a given integer.
-//By Anwar Abdul-Wajid Sung-Numa
+//Name Banguu Philemon Wob.
 //Computer Science Level 300
 
 #include <iostream>
